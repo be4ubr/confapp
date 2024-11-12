@@ -35,8 +35,7 @@
         "resposta": "Sim, você pode fazer o upgrade ou downgrade do seu plano a qualquer momento, entrando em contato com nossa equipe pelo app ou site."
     },
     {
-        "id": 8
-        ,
+        "id": 8,
         "pergunta": "Existe um período de carência para utilizar os serviços?",
         "resposta": "Sim, alguns serviços podem ter carência... Detalhes específicos podem ser consultados em cada plano."
     }
