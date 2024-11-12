@@ -1,8 +1,116 @@
 [
     {
-      "idplano": "PlanoTeste", 
-      "titulo": "Plano para teste",
-      "icone": "https://cdn-icons-png.flaticon.com/512/10185/10185418.png",
-      "descricao": "fajsçdlfkjasçl açlksdfj açlsfj açlksdjf çalskdfj açsldkfj açsadslçkjf çalsdfj"
+        "id": 10,
+        "idplano": "PlanoTeste",
+        "titulo": "Plano para teste",
+        "icone": "https://be4ubr.github.io/confapp/imagens/ambulancia.jpeg",
+        "descricao": "Acesse consultas médicas a distância, com praticidade e atendimento rápido onde quer que esteja."
+    },
+    {
+        "id": 20,
+        "idplano": "Exames laboratoriais",
+        "titulo": "Exames laboratoriais",
+        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "descricao": "Realize exames essenciais com facilidade e agilidade em laboratórios de saúde parceiros."
+    },
+    {
+        "id": 30,
+        "idplano": "Vacina",
+        "titulo": "Vacina",
+        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "descricao": "Proteja-se e mantenha a imunização em dia com acesso a vacinas essenciais."
+    },
+    {
+        "id": 40,
+        "idplano": "Auxílio funeral e Cesta básica para família",
+        "titulo": "Auxílio funeral e Cesta básica para família",
+        "icone": "https://be4ubr.github.io/confapp/imagens/funeral.jpeg",
+        "descricao": "Apoio nos momentos mais difíceis, com auxílio funeral e cesta básica para a família durante um ano."
+    },
+    {
+        "id": 50,
+        "idplano": "Auxílio automotivo",
+        "titulo": "Auxílio automotivo",
+        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "descricao": "Conte com suporte em emergências no trânsito, como pane mecânica ou elétrica ou serviços de guincho com cobertura para distâncias de até 100 km."
+    },
+    {
+        "id": 60,
+        "idplano": "Rastreador veicular",
+        "titulo": "Rastreador veicular",
+        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "descricao": "Monitore seu veículo em tempo real e aumente a segurança contra furtos."
+    },
+    {
+        "id": 70,
+        "idplano": "Mala para viagem",
+        "titulo": "Mala para viagem",
+        "icone": "https://be4ubr.github.io/confapp/imagens/mala.jpeg",
+        "descricao": "Reserve uma mala sempre que precisar viajar, sem ter que se preocupar em comprar algo que você só usará de vez em quando! "
+    },
+    {
+        "id": 80,
+        "idplano": "Serviço de remoção/Carreto/Transporte (até 100 km)",
+        "titulo": "Serviço de remoção/Carreto/Transporte (até 100 km)",
+        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "descricao": "Facilite mudanças e transporte de objetos, com cobertura para distâncias de até 100 km."
+    },
+    {
+        "id": 90,
+        "idplano": "Ambulância",
+        "titulo": "Ambulância",
+        "icone": "https://be4ubr.github.io/confapp/imagens/ambulancia.jpeg",
+        "descricao": "Garanta atendimento rápido e transporte médico emergencial quando necessário."
+    },
+    {
+        "id": 100,
+        "idplano": "Auxílio jurídico",
+        "titulo": "Auxílio jurídico",
+        "icone": "https://be4ubr.github.io/confapp/imagens/juridico.jpeg",
+        "descricao": "Obtenha orientação jurídica em questões legais do dia a dia."
+    },
+    {
+        "id": 110,
+        "idplano": "Desconto em viagem",
+        "titulo": "Desconto em viagem",
+        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "descricao": "Aproveite descontos especiais para suas viagens e momentos de lazer."
+    },
+    {
+        "id": 120,
+        "idplano": "Cashback",
+        "titulo": "Cashback",
+        "icone": "https://be4ubr.github.io/confapp/imagens/cashback.jpeg",
+        "descricao": "Receba parte do valor gasto em compras de volta no seu bolso."
+    },
+    {
+        "id": 130,
+        "idplano": "Cupons de descontos",
+        "titulo": "Cupons de descontos",
+        "icone": "https://be4ubr.github.io/confapp/imagens/desconto.jpeg",
+        "descricao": "Economize em diversas categorias com cupons para produtos e serviços."
+    },
+    {
+        "id": 140,
+        "idplano": "Auxílio doméstico (Marido de Aluguel)",
+        "titulo": "Auxílio doméstico (Marido de Aluguel)",
+        "icone": "https://be4ubr.github.io/confapp/imagens/furadeira.jpeg",
+        "descricao": "Peça ajuda com pequenas manutenções domésticas para deixar sua casa sempre em ordem."
+    },
+    {
+        "id": 150,
+        "idplano": "Estética (Manicure e Peeling)",
+        "titulo": "Estética (Manicure e Peeling)",
+        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "descricao": "Cuide de você com serviços de estética para mãos e pele."
+    },
+    {
+        "id": 160,
+        "idplano": "Assistência Pet",
+        "titulo": "Assistência Pet",
+        "icone": "https://be4ubr.github.io/confapp/imagens/pet.jpeg",
+        "descricao": "Apoio e serviços para seu animal de estimação, com atendimento básico e emergencial."
     }
+
+ 
 ]
