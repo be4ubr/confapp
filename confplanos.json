@@ -3,21 +3,21 @@
         "id": 10,
         "idplano": "PlanoTeste",
         "titulo": "Plano para teste",
-        "icone": "https://be4ubr.github.io/confapp/imagens/ambulancia.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/telemedicina.png",
         "descricao": "Acesse consultas médicas a distância, com praticidade e atendimento rápido onde quer que esteja."
     },
     {
         "id": 20,
         "idplano": "Exames laboratoriais",
         "titulo": "Exames laboratoriais",
-        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/exames.png",
         "descricao": "Realize exames essenciais com facilidade e agilidade em laboratórios de saúde parceiros."
     },
     {
         "id": 30,
         "idplano": "Vacina",
         "titulo": "Vacina",
-        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.png",
         "descricao": "Proteja-se e mantenha a imunização em dia com acesso a vacinas essenciais."
     },
     {
@@ -31,14 +31,14 @@
         "id": 50,
         "idplano": "Auxílio automotivo",
         "titulo": "Auxílio automotivo",
-        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/auxAutomotivo.png",
         "descricao": "Conte com suporte em emergências no trânsito, como pane mecânica ou elétrica ou serviços de guincho com cobertura para distâncias de até 100 km."
     },
     {
         "id": 60,
         "idplano": "Rastreador veicular",
         "titulo": "Rastreador veicular",
-        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/rastreamento.png",
         "descricao": "Monitore seu veículo em tempo real e aumente a segurança contra furtos."
     },
     {
@@ -73,7 +73,7 @@
         "id": 110,
         "idplano": "Desconto em viagem",
         "titulo": "Desconto em viagem",
-        "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/desViagem.png",
         "descricao": "Aproveite descontos especiais para suas viagens e momentos de lazer."
     },
     {
@@ -101,7 +101,7 @@
         "id": 150,
         "idplano": "Estética (Manicure e Peeling)",
         "titulo": "Estética (Manicure e Peeling)",
-        "icone": "https://be4ubr.github.io/confapp/imagens/vacina.jpeg",
+        "icone": "https://be4ubr.github.io/confapp/imagens/estetica.jpeg",
         "descricao": "Cuide de você com serviços de estética para mãos e pele."
     },
     {
