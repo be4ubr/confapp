@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "pergunta": "Como posso usar a telemedicina?",
+        "resposta": "A telemedicina pode ser acessada diretamente pelo app Zip Benefícios. Você poderá agendar uma consulta online com especialistas e ser atendido no conforto de sua casa."
+    },
+    {
+        "id": 2,
+        "pergunta": "Como posso efetuar o pagamento?",
+        "resposta": "O pagamento é efetuado via cartão de crédito com segurança CIELO. Cartões aceitos: Visa, Master, Diners e Amex."
+    },
+    {
+        "id": 3,
+        "pergunta": "Quais serviços estão incluídos no meu plano?",
+        "resposta": "Cada plano possui uma lista específica de serviços. Você pode consultar a comparação de planos no nosso site ou app para verificar quais benefícios estão disponíveis no seu plano."
+    },
+    {
+        "id": 4,
+        "pergunta": "Como posso cancelar minha assinatura?",
+        "resposta": "Você pode cancelar sua assinatura a qualquer momento, basta acessar seu painel e pedir para efetuar o cancelamento."
+    },
+    {
+        "id": 5,
+        "pergunta": "Como faço para me inscrever?",
+        "resposta": "Basta escolher um de nossos planos, realizar a adesão online pelo site ou app, e você terá acesso imediato aos benefícios."
+    },
+    {
+        "id": 6,
+        "pergunta": "O que é a Zip Benefícios?",
+        "resposta": "A Zip é um clube de benefícios que oferece uma variedade de serviços, desde telemedicina e assistência automotiva até cashback e descontos exclusivos, para facilitar seu dia a dia e garantir bem-estar."
+    },
+    {
+        "id": 7,
+        "pergunta": "Posso alterar meu plano depois da adesão?",
+        "resposta": "Sim, você pode fazer o upgrade ou downgrade do seu plano a qualquer momento, entrando em contato com nossa equipe pelo app ou site."
+    },
+    {
+        "id": 8
+        ,
+        "pergunta": "Existe um período de carência para utilizar os serviços?",
+        "resposta": "Sim, alguns serviços podem ter carência... Detalhes específicos podem ser consultados em cada plano."
+    }
+]
