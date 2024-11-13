@@ -1,8 +1,15 @@
 [
     {
-        "id": 10,
+        "id": 5,
         "idplano": "PlanoTeste",
-        "titulo": "Plano para teste",
+        "titulo": "Plano Teste",
+        "icone": "https://be4ubr.github.io/confapp/imagens/plano.png",
+        "descricao": "O seu plano é basico"
+    },
+    {
+        "id": 10,
+        "idplano": "Telemedicina",
+        "titulo": "Telemedicina",
         "icone": "https://be4ubr.github.io/confapp/imagens/telemedicina.png",
         "descricao": "Acesse consultas médicas a distância, com praticidade e atendimento rápido onde quer que esteja."
     },
