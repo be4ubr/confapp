@@ -1,0 +1,28 @@
+[
+    {
+        "id": 10,
+        "id_api": "PlanoA",
+        "titulo": "Plano Basic",
+        "servicos": [
+            5,20,100
+            
+        ]
+    },
+    {
+        "id": 20,
+        "id_api": "PlanoB",
+        "titulo": "Plano Elite",
+        "servicos": [
+            10,20,30
+        ]
+    },
+    {
+        "id": 30,
+        "id_api": "PlanoC",
+        "titulo": "Plano Prime",
+        "servicos": [
+            10,20,30,40
+        ]
+    },
+
+]
