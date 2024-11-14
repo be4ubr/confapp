@@ -4,120 +4,138 @@
         "idServico": "PlanoTeste",
         "titulo": "Plano Teste",
         "icone": "https://be4ubr.github.io/confapp/imagens/plano.png",
-        "descricao": "O seu plano é basico"
+        "descricao": "O seu plano é basico",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 10,
         "idServico": "Telemedicina",
         "titulo": "Telemedicina",
         "icone": "https://be4ubr.github.io/confapp/imagens/telemedicina.png",
-        "descricao": "Acesse consultas médicas a distância, com praticidade e atendimento rápido onde quer que esteja."
+        "descricao": "Acesse consultas médicas a distância, com praticidade e atendimento rápido onde quer que esteja.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 20,
         "idServico": "Exames laboratoriais",
         "titulo": "Exames laboratoriais",
         "icone": "https://be4ubr.github.io/confapp/imagens/exames.png",
-        "descricao": "Realize exames essenciais com facilidade e agilidade em laboratórios de saúde parceiros."
+        "descricao": "Realize exames essenciais com facilidade e agilidade em laboratórios de saúde parceiros.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 30,
         "idServico": "Vacina",
         "titulo": "Vacina",
         "icone": "https://be4ubr.github.io/confapp/imagens/vacina.png",
-        "descricao": "Proteja-se e mantenha a imunização em dia com acesso a vacinas essenciais."
+        "descricao": "Proteja-se e mantenha a imunização em dia com acesso a vacinas essenciais.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 40,
         "idServico": "Auxílio funeral e Cesta básica para família",
         "titulo": "Auxílio funeral e Cesta básica para família",
         "icone": "https://be4ubr.github.io/confapp/imagens/funeral.jpeg",
-        "descricao": "Apoio nos momentos mais difíceis, com auxílio funeral e cesta básica para a família durante um ano."
+        "descricao": "Apoio nos momentos mais difíceis, com auxílio funeral e cesta básica para a família durante um ano.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 50,
         "idServico": "Auxílio automotivo",
         "titulo": "Auxílio automotivo",
         "icone": "https://be4ubr.github.io/confapp/imagens/auxAutomotivo.png",
-        "descricao": "Conte com suporte em emergências no trânsito, como pane mecânica ou elétrica ou serviços de guincho com cobertura para distâncias de até 100 km."
+        "descricao": "Conte com suporte em emergências no trânsito, como pane mecânica ou elétrica ou serviços de guincho com cobertura para distâncias de até 100 km.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 60,
         "idServico": "Rastreador veicular",
         "titulo": "Rastreador veicular",
         "icone": "https://be4ubr.github.io/confapp/imagens/rastreamento.png",
-        "descricao": "Monitore seu veículo em tempo real e aumente a segurança contra furtos."
+        "descricao": "Monitore seu veículo em tempo real e aumente a segurança contra furtos.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 70,
         "idServico": "Mala para viagem",
         "titulo": "Mala para viagem",
         "icone": "https://be4ubr.github.io/confapp/imagens/mala.jpeg",
-        "descricao": "Reserve uma mala sempre que precisar viajar, sem ter que se preocupar em comprar algo que você só usará de vez em quando! "
+        "descricao": "Reserve uma mala sempre que precisar viajar, sem ter que se preocupar em comprar algo que você só usará de vez em quando! ",
+        "link": "https://wa.me/5517991628385"
+
     },
     {
         "id": 80,
         "idServico": "Serviço de remoção/Carreto/Transporte (até 100 km)",
         "titulo": "Serviço de remoção/Carreto/Transporte (até 100 km)",
         "icone": "https://be4ubr.github.io/confapp/imagens/transporte.jpeg",
-        "descricao": "Facilite mudanças e transporte de objetos, com cobertura para distâncias de até 100 km."
+        "descricao": "Facilite mudanças e transporte de objetos, com cobertura para distâncias de até 100 km.",
+        "link": "https://wa.me/5517991628385"
+
     },
     {
         "id": 90,
         "idServico": "Ambulância",
         "titulo": "Ambulância",
         "icone": "https://be4ubr.github.io/confapp/imagens/ambulancia.jpeg",
-        "descricao": "Garanta atendimento rápido e transporte médico emergencial quando necessário."
+        "descricao": "Garanta atendimento rápido e transporte médico emergencial quando necessário.",
+        "link": "https://wa.me/5517991628385"
+
     },
     {
         "id": 100,
         "idServico": "Auxílio jurídico",
         "titulo": "Auxílio jurídico",
         "icone": "https://be4ubr.github.io/confapp/imagens/juridico.jpeg",
-        "descricao": "Obtenha orientação jurídica em questões legais do dia a dia."
+        "descricao": "Obtenha orientação jurídica em questões legais do dia a dia.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 110,
         "idServico": "Desconto em viagem",
         "titulo": "Desconto em viagem",
         "icone": "https://be4ubr.github.io/confapp/imagens/desViagem.png",
-        "descricao": "Aproveite descontos especiais para suas viagens e momentos de lazer."
+        "descricao": "Aproveite descontos especiais para suas viagens e momentos de lazer.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 120,
         "idServico": "Cashback",
         "titulo": "Cashback",
         "icone": "https://be4ubr.github.io/confapp/imagens/cashback.jpeg",
-        "descricao": "Receba parte do valor gasto em compras de volta no seu bolso."
+        "descricao": "Receba parte do valor gasto em compras de volta no seu bolso.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 130,
         "idServico": "Cupons de descontos",
         "titulo": "Cupons de descontos",
         "icone": "https://be4ubr.github.io/confapp/imagens/desconto.jpeg",
-        "descricao": "Economize em diversas categorias com cupons para produtos e serviços."
+        "descricao": "Economize em diversas categorias com cupons para produtos e serviços.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 140,
         "idServico": "Auxílio doméstico (Marido de Aluguel)",
         "titulo": "Auxílio doméstico (Marido de Aluguel)",
         "icone": "https://be4ubr.github.io/confapp/imagens/furadeira.jpeg",
-        "descricao": "Peça ajuda com pequenas manutenções domésticas para deixar sua casa sempre em ordem."
+        "descricao": "Peça ajuda com pequenas manutenções domésticas para deixar sua casa sempre em ordem.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 150,
         "idServico": "Estética (Manicure e Peeling)",
         "titulo": "Estética (Manicure e Peeling)",
         "icone": "https://be4ubr.github.io/confapp/imagens/estetica.jpeg",
-        "descricao": "Cuide de você com serviços de estética para mãos e pele."
+        "descricao": "Cuide de você com serviços de estética para mãos e pele.",
+        "link": "https://wa.me/5517991628385"
     },
     {
         "id": 160,
         "idServico": "Assistência Pet",
         "titulo": "Assistência Pet",
         "icone": "https://be4ubr.github.io/confapp/imagens/pet.jpeg",
-        "descricao": "Apoio e serviços para seu animal de estimação, com atendimento básico e emergencial."
+        "descricao": "Apoio e serviços para seu animal de estimação, com atendimento básico e emergencial.",
+        "link": "https://wa.me/5517991628385"
     }
-
- 
 ]
